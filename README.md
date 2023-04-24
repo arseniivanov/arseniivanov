@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects in applied mathematics.
 - 📫 How to reach me - email: arseni_mars97@hotmail.com
 
-My website can at: https://arseniivanov.github.io/
+My website can be found here: https://arseniivanov.github.io/
 
 <!---
 arseniivanov/arseniivanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
