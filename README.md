@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arseniivanov
-- 👀 I’m interested in Computer Vision, Image Analysis, Machine Learning and Computer Graphics.
-- 🌱 I’m currently learning about EEG emotional prediction, neuromorphic neural networks and edge computing.
-- 💞️ I’m looking to collaborate on projects in applied mathematics.
+- 👀 I’m interested in Information theory, Deep learning, Compression, Hardware acceleration and Computer Graphics.
+- 🌱 I’m currently learning about Triton, VAE's, Neural cellular automata.
 - 📫 How to reach me - email: arseni_mars97@hotmail.com
 
 My website can be found here: https://arseniivanov.github.io/
